@@ -1,6 +1,6 @@
 //Check if two strings are isomorphic or not
 //Time Complexity: O(n) for all the solutions
-//Space Complexity: O(1) for all the solutions
+//Space Complexity: O(1) for all the solutions because map stores not more than 26 characters
 //Solved in LeetCode: Yes
 /*
 Approach:
